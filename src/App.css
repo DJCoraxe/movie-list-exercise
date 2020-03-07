@@ -32,39 +32,6 @@ h1 {
   color: #888;
 }
 
-.unwatched {
-  color: #888;
-  cursor: pointer;
-}
-.unwatched:hover {
-    color: green;
-}
-
-
-ul {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-inline-start: 0px;
-  margin: 25px;
-}
-
-li {
-  margin: 10px;
-  font-size: 18px;
-  line-height: 18px;
-  list-style: none;
-  height: 18px;
-  width: 350px;
-  padding: 10px;
-  border: 1px solid #ddd;
-  background: #fff;
-  border-radius: 6px;
-  font-family: 'Cabin', sans-serif;
-  display: flex;
-  justify-content: space-between;
-}
-
 input {
   margin: 10px;
   font-size: 18px;
